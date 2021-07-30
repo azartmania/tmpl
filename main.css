@@ -100,8 +100,10 @@ article {
 	color: #ba0000;
 }
 .item img {
-	max-width: 100%;
-	
+	max-width: 100%
+}
+.item img:hover {
+	cursor: pointer;
 }
 .item span {
 	font-size: 1.2rem;
@@ -126,4 +128,20 @@ article {
 	border-bottom: 2px #009a62 solid;
 	border-radius: 2px;
 	color: #fff;
+}
+#bigplace {
+	border: none !important;
+}
+#bigplace ul {
+	list-style: none;
+}
+#bigplace ul li {
+	padding: 8px 5px;
+}
+#bigplace ul li a {
+	color: #333;
+	font-size: 1.2rem;
+}
+#bigplace ul li a:hover {
+	color: #0064cc;
 }
