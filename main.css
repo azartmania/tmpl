@@ -145,3 +145,6 @@ article {
 #bigplace ul li a:hover {
 	color: #0064cc;
 }
+ul li {
+	padding: 5px 0px;
+}
