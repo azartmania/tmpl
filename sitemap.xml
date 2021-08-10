@@ -2,13 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://azartmania.github.io/</loc>
-    <lastmod>2021-06-19</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2021-08-10</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
-      <image:image>
-        <image:loc>https://azartmania.github.io/picture/jozzcasino.jpg</image:loc>
-        <image:title>Jozz Casino - казино Джозз</image:title>
-      </image:image>
       <image:image>
         <image:loc>https://azartmania.github.io/picture/playfortuna.jpg</image:loc>
         <image:title>Play Fortuna Casino</image:title>
@@ -16,6 +12,14 @@
       <image:image>
         <image:loc>https://azartmania.github.io/picture/booi.jpg</image:loc>
         <image:title>Booi Casino</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://azartmania.github.io/picture/jetcasino.jpeg</image:loc>
+        <image:title>Jet Casino - казино Джет</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://azartmania.github.io/picture/jozzcasino.jpg</image:loc>
+        <image:title>Jozz Casino - казино Джозз</image:title>
       </image:image>
       <image:image>
         <image:loc>https://azartmania.github.io/picture/vostok.jpg</image:loc>
@@ -48,24 +52,20 @@
   </url>
   <url>
     <loc>https://azartmania.github.io/casino-bonus/</loc>
-    <lastmod>2021-06-19</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2021-08-10</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://azartmania.github.io/picture/jozz_1920x1080_ru_mkai99_c_scale,w_531.png</image:loc>
         <image:title>Бездепозитный бонус в Jozz казино</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://azartmania.github.io/picture/pf_1920x1080_ru_hk2eky_c_scale,w_565.png</image:loc>
+        <image:loc>https://azartmania.github.io/picture/pf_1920x1080_ru_hk2eky_c_scale,w_408.png</image:loc>
         <image:title>Бездепозитный бонус в казино Play Fortuna</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://azartmania.github.io/picture/1920%D1%851080_e1rzhe_c_scale,w_1920.png</image:loc>
+        <image:loc>https://azartmania.github.io/picture/1920%D1%851080_e1rzhe_c_scale,w_477.png</image:loc>
         <image:title>Бездепозитный бонус в казино Vavada</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://azartmania.github.io/picture/jozzcasino.jpg</image:loc>
-        <image:title>Jozz Casino - казино Джозз</image:title>
       </image:image>
       <image:image>
         <image:loc>https://azartmania.github.io/picture/playfortuna.jpg</image:loc>
@@ -74,6 +74,14 @@
       <image:image>
         <image:loc>https://azartmania.github.io/picture/booi.jpg</image:loc>
         <image:title>Booi Casino</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://azartmania.github.io/picture/jetcasino.jpeg</image:loc>
+        <image:title>Jet Casino - казино Джет</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://azartmania.github.io/picture/jozzcasino.jpg</image:loc>
+        <image:title>Jozz Casino - казино Джозз</image:title>
       </image:image>
       <image:image>
         <image:loc>https://azartmania.github.io/picture/vostok.jpg</image:loc>
@@ -102,6 +110,16 @@
       <image:image>
         <image:loc>https://azartmania.github.io/picture/superslots.jpg</image:loc>
         <image:title>Super Slots</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://azartmania.github.io/casino-vostok/</loc>
+    <lastmod>2021-08-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://azartmania.github.io/picture/vostok.jpg</image:loc>
+        <image:title>Vostok Casino</image:title>
       </image:image>
   </url>
 </urlset>
